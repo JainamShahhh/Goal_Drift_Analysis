@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Whitelist (Un-ignore) specific folders and files
+!src/
+!data/
+!analysis_full/
+!analysis_combined/
+!README.md
+!requirements.txt
+!.gitignore
