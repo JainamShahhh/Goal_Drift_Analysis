@@ -1,11 +1,18 @@
-# Ignore everything by default
-*
+# Ignore everything in root
+/*
 
 # Whitelist (Un-ignore) specific folders and files
-!src/
-!data/
-!analysis_full/
-!analysis_combined/
-!README.md
-!requirements.txt
-!.gitignore
+!/src/
+!/data/
+!/analysis_full/
+!/analysis_combined/
+!/README.md
+!/requirements.txt
+!/.gitignore
+
+# Re-ignore specific patterns everywhere
+.DS_Store
+__pycache__/
+*.pyc
+
+

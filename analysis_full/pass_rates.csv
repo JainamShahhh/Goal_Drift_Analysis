@@ -1,0 +1,5 @@
+model,condition,pass_rate
+gpt-3.5-turbo,caution,0.5969512195121951
+gpt-3.5-turbo,neutral,0.7152439024390244
+gpt-3.5-turbo,reputation,0.6
+gpt-3.5-turbo,speed,0.2804878048780488

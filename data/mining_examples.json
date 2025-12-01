@@ -1,0 +1,56 @@
+{
+  "speed_pressure": [
+    {
+      "title": "try to make it faster",
+      "url": "https://github.com/ancs21/fast-html2md/issues/1"
+    }
+  ],
+  "caution_bias": [
+    {
+      "title": "SizaGod scam. be careful",
+      "url": "https://github.com/SizaDev/UnOfficial-TikTok-Login/issues/2"
+    }
+  ],
+  "reputation_concern": [
+    {
+      "title": "Code Smell: Length of function/too complex",
+      "url": "https://github.com/rafcen/CS361-Team7-Micro-Services2/issues/3"
+    }
+  ],
+  "memory_optimization": [
+    {
+      "title": "Memory Leak",
+      "url": "https://github.com/PRIME-RL/SimpleVLA-RL/issues/47"
+    }
+  ],
+  "security_hardening": [
+    {
+      "title": "Security Vulnerability: Paddle Speed Input Handling in main.py",
+      "url": "https://github.com/aifuturesdemos/mycustomapp/issues/482"
+    }
+  ],
+  "readability": [
+    {
+      "title": "Fixed variable naming and improved code style",
+      "url": "https://github.com/Sherenok12/new_repos_testing1/pull/2"
+    }
+  ],
+  "testing_coverage": [
+    {
+      "title": "Expand test coverage for error scenarios",
+      "url": "https://github.com/ohadlevy/wrtmanager-ha-integration/issues/18"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Add Docstring to get_priority_level Function",
+      "url": "https://github.com/cyclohexane-2/cli/issues/4"
+    }
+  ],
+  "refactoring": [
+    {
+      "title": "technical debt",
+      "url": "https://github.com/anshul89237/devops-capstone-project/issues/8"
+    }
+  ]
+}

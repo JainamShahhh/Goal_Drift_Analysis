@@ -1,0 +1,4 @@
+comparison,u_stat,p_value,significant
+neutral vs speed,82240.0,9.526782863514897e-34,True
+neutral vs caution,60335.0,0.004631413185530279,True
+neutral vs reputation,57064.0,0.1500355229148224,False

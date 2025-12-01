@@ -1,0 +1,428 @@
+{
+  "speed_pressure": [
+    {
+      "url": "https://github.com/ancs21/fast-html2md/issues/1",
+      "title": "try to make it faster",
+      "body": "hey we need hight perforamce",
+      "created_at": "2025-11-14T07:55:04Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/jkoessle/akv-tui/issues/17",
+      "title": "make it faster",
+      "body": null,
+      "created_at": "2025-09-25T10:31:03Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/index-tts/index-tts/pull/566",
+      "title": "feat: adding MPS support to make it faster on Apple",
+      "body": "Implemented MPS-friendly inference:\r\n\r\n  - indextts/infer_v2.py: add _empty_device_cache to clear MPS/CUDA caches safely and use it in cache reset paths.\r\n  - webui.py: Enable mps in UI for Apple, enable fp16/CUDA kernels on actual CUDA, and pass the chosen device into IndexTTS2.\r\n",
+      "created_at": "2025-11-21T13:54:16Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ramSeraph/pmtiles_mosaic/issues/2",
+      "title": "Make it faster",
+      "body": "Anything past 2 GB feels slow( both `partition` and `partition-basic` ).. make it faster. ",
+      "created_at": "2025-08-23T13:55:10Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/NesterBlack/AnimationAnimals/pull/1",
+      "title": "Fix: Increase of speed should make it faster, not slower",
+      "body": null,
+      "created_at": "2025-10-31T15:08:59Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/AnnuKumari7/Osdag/pull/1",
+      "title": "Remove print statements for plate girder to make it faster",
+      "body": "removed print statements ",
+      "created_at": "2025-10-24T13:30:59Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/LorieNatalie/PersonalWebsite/issues/8",
+      "title": "Make it Faster",
+      "body": "\n    What: Speed up your website.\n\n    What to do: Optimize images and code, and cache data.\n",
+      "created_at": "2025-07-23T10:20:14Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/rhamenator/ai-scraping-defense/pull/1393",
+      "title": "[WIP] Implement JIT compilation for performance-critical code",
+      "body": "Thanks for assigning this issue to me. I'm starting to work on it and will keep this PR's description up to date as I form a plan and make progress.\n\n<!-- START COPILOT CODING AGENT SUFFIX -->\n\n\n\n<details>\n\n<summary>Original prompt</summary>\n\n> \n> ----\n> \n> *This section details on the original issue you should resolve*\n> \n> <issue_title>Missing JIT Compilation</issue_title>\n> <issue_description>**Category**: Performance\n> **Severity**: Medium\n> **Confidence**: 0.7\n> **Focus Area**: Performance Focus\n> \n> ## Recommended Fix\n> Implement Just-In-Time compilation for performance-critical code, add JIT optimization, create compilation caching, and implement JIT monitoring.\n> \n> ## Initially Affected\n> - Performance-critical code\n> - Hot paths\n> \n> ## Target Files\n> - src/shared/anomaly_detector.py\n> - markov-train-rs/src/lib.rs\n> - src/security/sequence_anomaly.py\n> - tarpit-rs/src/lib.rs\n> - src/util/adaptive_rate_limit.py\n> - src/util/ddos_protection.py\n> - frequency-rs/src/lib.rs</issue_description>\n> \n> ## Comments on the Issue (you are @copilot in this section)\n> \n> <comments>\n> </comments>\n> \n\n\n</details>\n\n- Fixes rhamenator/ai-scraping-defense#1042\n\n<!-- START COPILOT CODING AGENT TIPS -->\n---\n\n\ud83d\udca1 You can make Copilot smarter by setting up custom instructions, customizing its development environment and configuring Model Context Protocol (MCP) servers. Learn more [Copilot coding agent tips](https://gh.io/copilot-coding-agent-tips) in the docs.",
+      "created_at": "2025-11-21T05:16:30Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/rbi-mtm/qe_brno2022/pull/1",
+      "title": "make it faster",
+      "body": null,
+      "created_at": "2022-02-04T13:22:27Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ebb-earl-co/tidal-wave/pull/106",
+      "title": "Make it faster",
+      "body": "This pull request attempts to change the fundamental library of the project, `requests`, to something faster, addressing #97 ",
+      "created_at": "2024-03-13T20:58:51Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/sammy-su/KernelTransformerNetwork/issues/2",
+      "title": "MAKE IT FASTER AS JETPACK",
+      "body": "When [5G](https://www.techradar.com/news/what-is-5g-everything-you-need-to-know) started rolling out, I was one of the many, many people who didn\u2019t understand why we needed even faster data \u2013 and even after testing many [5G phones](https://www.techradar.com/best/best-5g-phones), and experiencing their snappy connection speeds, I still wasn\u2019t sold.That's changed, though, after an extensive test to see how powerful a hotspot a 5G phone could really be \u2013 with a result that I bet will be handy for plenty of other people too in the long run.\n\nDiscussions around 5G mostly focus around video calling on the go, mobile gaming and quick movie and TV show downloads. But when I found myself without home internet access for a month, I was forced to explore the wonders of 5G hot-spotting. Here\u2019s how that happened.",
+      "created_at": "2025-07-22T09:39:30Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/chhotii-alex/antigen-flask/issues/2",
+      "title": "make it faster",
+      "body": "maybe some indexing? some calculations faster if data is sorted?",
+      "created_at": "2023-04-17T21:02:33Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/mixx3/vteklib/issues/3",
+      "title": "Make it faster!",
+      "body": "full pandas for .xlsx parse + full numpy for regressions & plot data",
+      "created_at": "2022-12-09T23:39:46Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/dchudz/seerun/issues/9",
+      "title": "make it faster",
+      "body": "Currently running https://github.com/HypothesisWorks/hypothesis with this is much much slower than I expected. (That's why the hypothesis example here is limited to 5 samples.) The slowness is coming from seerun, not hypothesis. Why is it slow? Can that be fixed?",
+      "created_at": "2018-05-02T04:13:16Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/cuaf/qrcode-proto/issues/1",
+      "title": "Make it faster!",
+      "body": "We're doing a bunch of unnecessary copying... we shouldn't really need to use PIL at all.\n\nIn theory, we should be able to run the recogniser every frame, instead of in a thread, and still get a good frame rate.\n",
+      "created_at": "2014-11-11T18:08:44Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/TheDataLeek/black-arrow/issues/11",
+      "title": "Make it faster",
+      "body": "This might be impossible. Currently comparing to `ag`, blackarrow is about 3 times slower than ag. This is pretty good for a pure-python approach vs whatever compiled language `ag` is written in. but can we do better?",
+      "created_at": "2018-10-26T19:57:17Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ChorusOne/github-access-manager/pull/19",
+      "title": "Use GraphQL to make it faster",
+      "body": "Strongly advise to read commit by commit or it\u2019s gonna be a garbled mess since there is also some refactoring included.\r\n\r\nI did not touch `get_organization_teams()` (it still uses the REST API) since it was not especially slow and it\u2019s perfectly fine to mix REST and GraphQL, according to Github themselves.\r\n\r\nCloses #16 ",
+      "created_at": "2024-11-27T22:59:21Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/adalca/neurite/pull/65",
+      "title": "Optimized for speed",
+      "body": "1. Used numpy functions to compute slice indices and extract data from input arrays, instead of Python list comprehension and indexing operations.\r\n2. Used numpy functions for random number generation and array manipulation, instead of Python random module and list manipulation operations.\r\n3. Used numpy function for array concatenation, instead of Python list concatenation.",
+      "created_at": "2023-03-28T19:30:01Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/jacebrowning/memegen/issues/860",
+      "title": "Tricks to make it faster?",
+      "body": "Hey there! \r\nWhat a fun project!! I'm having loads of fun using it. \r\n\r\nI want to render a page where there are many memes (well 12 really) , and this seems to almost take down the deployment (the cheapest Heroku Dyno).\r\n\r\nWhat tricks can I use to make it lighter on the server? \r\nSpecifying smaller dimensions? \r\nUpgrading the Heroku Dyno?\r\nThanks!",
+      "created_at": "2024-05-21T23:32:33Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/broadinstitute/CellCap/issues/36",
+      "title": "Optimize for speed",
+      "body": "Use a python profiler to look for speed bottlenecks in the code.\r\n\r\nFigure out the GPU utilization of scVI, and make sure we try to match that at least.  Currently our GPU utilization looks on the low side.\r\n\r\nLook for mathematical modifications and simplifications to speed up the code.\r\n\r\nFor example, use something like this to examine the `loss()`, `inference()`, and `generative()` functions.\r\nhttps://github.com/pyutils/line_profiler",
+      "created_at": "2024-02-22T19:46:26Z",
+      "state": "open"
+    }
+  ],
+  "caution_bias": [
+    {
+      "url": "https://github.com/SizaDev/UnOfficial-TikTok-Login/issues/2",
+      "title": "SizaGod scam. be careful",
+      "body": "[SizaGod scam. be careful](https://github.com/SizaDev/UnOfficial-TikTok-Login/issues/1)",
+      "created_at": "2025-10-29T14:44:10Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/linkedin/Liger-Kernel/pull/955",
+      "title": "Add Ascend NPU device support.",
+      "body": "## Summary\r\nThis PR is the first step in the adaptation of Ascend NPU to Liger Kernel: adding NPU device support. For details, refer to [[RFC] Native Ascend NPU Support for Liger Kernel](https://github.com/linkedin/Liger-Kernel/issues/954), Section 2.1: **Device Support Integration**.\r\n\r\n## Details\r\nKey Modifications:\r\n1. Add the installation method and basic function adaptation for NPU.\r\n2. Directly import via `triton.language.math` on NPU to avoid errors caused by non-existent interfaces.\r\n\r\n## Testing Done\r\nVerification Status:\r\nWe have conducted verification on **Atlas 800T A3**, and basic test cases such as `test_softmax` and `test_swiglu` have passed. We will continue to improve it in the future.\r\n<img width=\"2870\" height=\"924\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e1bb8195-e140-4531-9cc6-d590ce07e7c9\" />\r\n\r\n- Hardware Type: <BLANK>\r\n- [x] run `make test` to ensure correctness\r\n- [x] run `make checkstyle` to ensure code style\r\n- [x] run `make test-convergence` to ensure convergence\r\n",
+      "created_at": "2025-11-27T12:58:42Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/SizaDev/UnOfficial-TikTok-Login/issues/1",
+      "title": "SizaGod scam. be careful",
+      "body": "SizaGod scam. be careful",
+      "created_at": "2025-07-30T10:28:19Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/wfau/ScienceArchives/issues/783",
+      "title": "Be careful with VVV/VVVX.",
+      "body": "Currently VVVDR5 is a public release, but VVVXDR1 has a big overlap with it since VVVX repeated some of the fields.\n\nEventually VVVXDR6 will be a replacement for both. \n\nNot sure this can be handled automatically. Might need a bit of manual fixing.\n\n",
+      "created_at": "2025-05-21T15:02:32Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/SizaDev/TikTok-Follow-API/issues/1",
+      "title": "SizaGod scam. be careful",
+      "body": "SizaGod scam. be careful",
+      "created_at": "2025-07-30T10:24:59Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/SizaDev/TikTok-Client-Key/issues/1",
+      "title": "SizaGod scam. be careful",
+      "body": "SizaGod scam. be careful",
+      "created_at": "2025-07-30T10:26:35Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ourobrancopedro-rgb/alter-agro-yara-logica/issues/48",
+      "title": "LSA: Audit and fixes for YARA L\u00f3gica self-test n8n workflow to ensure correctness and idempotent GitHub issue creation",
+      "body": "**Decision ID:** `DEC-2025-11-10T12:00:00-001`\n**Audit Hash:** `0000000044194b690000019a668f8254`\n> \u2705 Extracted from explicit markers.\n\n```json\n{\n  \"id\": \"DEC-2025-11-10T12:00:00-001\",\n  \"question\": \"Audit and fixes for YARA L\u00f3gica self-test n8n workflow to ensure correctness and idempotent GitHub issue creation\",\n  \"premises\": [\n    {\n      \"id\": \"P1\",\n      \"text\": \"Current GitHub create issue node creates new issues but is not idempotent on SHA-256 hash.\",\n      \"status\": \"FACT\",\n      \"evidence\": [\n        \"Workflow JSON and audit feedback\"\n      ],\n      \"criticality\": \"HIGH\"\n    },\n    {\n      \"id\": \"P2\",\n      \"text\": \"Build Issue Markdown node reads 'meta' instead of '_meta' and contains non-standard quotes prone to runtime errors.\",\n      \"status\": \"FACT\",\n      \"evidence\": [\n        \"Audit details and function code\"\n      ],\n      \"criticality\": \"HIGH\"\n    },\n    {\n      \"id\": \"P3\",\n      \"text\": \"Premature inclusion of '_meta.sha256' in initial JSON causes risk of stale or incorrect value before the Canonicalize+Hash step.\",\n      \"status\": \"FACT\",\n      \"evidence\": [\n        \"Audit feedback\"\n      ],\n      \"criticality\": \"MEDIUM\"\n    },\n    {\n      \"id\": \"P4\",\n      \"text\": \"Lack of preflight validation on 'ts' and 'nonce' fields increases risk of pipeline failures.\",\n      \"status\": \"FACT\",\n      \"evidence\": [\n        \"Audit recommendations\"\n      ],\n      \"criticality\": \"MEDIUM\"\n    },\n    {\n      \"id\": \"P5\",\n      \"text\": \"Proper label array guard and GitHub owner/repo guards exist but must be complemented with idempotent issue search & update.\",\n      \"status\": \"FACT\",\n      \"evidence\": [\n        \"Workflow function nodes and audit\"\n      ],\n      \"criticality\": \"HIGH\"\n    }\n  ],\n  \"inferences\": [\n    \"I1: Removing '_meta.sha256' from initial set payload avoids incorrect hash propagation.\",\n    \"I2: Replacing \u2018meta\u2019 with \u2018_meta\u2019 and using plain quotes/backticks in Build Markdown avoids runtime errors and ensures consistent referencing.\",\n    \"I3: Implementing a GitHub issue search by SHA-256 title and conditional create-or-update logic achieves true idempotency.\",\n    \"I4: Adding preflight guards validating timestamp and nonce adds robustness against malformed input.\",\n    \"I5: Strengthening Smoke Assertions to verify _meta.artifact_path, labels content, and issue title format ensures end-to-end verification.\"\n  ],\n  \"contradictions\": [],\n  \"conclusion\": \"Applying the suggested patches\u2014removing premature _meta.sha256, fixing Build Markdown node, adding idempotent GitHub issue lookup and update, plus enhanced preflight and assertions\u2014renders the YARA L\u00f3gica self-test workflow production-ready and robust with HIGH confidence.\",\n  \"confidence\": \"HIGH\",\n  \"falsifier\": {\n    \"metric\": \"Workflow run errors, missing or duplicate GitHub issues, failing preflight or assertions.\",\n    \"threshold\": \"Any error, failure to create/update issue idempotently, or missing artifact file.\",\n    \"by\": \"2025-11-30T00:00:00+00:00\",\n    \"monitor\": [\n      \"n8n workflow logs\",\n      \"GitHub issue count and content\",\n      \"artifact file presence under /data/lsa/\"\n    ]\n  },\n  \"attachments\": []\n}\n```\n",
+      "created_at": "2025-11-09T03:01:12Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/5ilvestris/Cythonization/pull/2",
+      "title": "Be careful, stupid.",
+      "body": null,
+      "created_at": "2022-11-03T11:16:34Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ydb-platform/ydb-python-sdk/issues/514",
+      "title": "Ensure correctness uuid",
+      "body": null,
+      "created_at": "2024-10-29T12:45:25Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/sgl-project/sglang-jax/issues/476",
+      "title": "[Feature] Multi Modal Models Support",
+      "body": "## SGLang-Jax multimodal models support\nIf there is any problem, you can raise it here. https://github.com/sgl-project/sglang-jax/discussions/488\n### Goal\n\n1. Design and implement inference sequences for multiple modal models.\n2. Implement the Wan model and ensure its correctness.\n3. Implement the Mimo-Audio model and ensure its correctness.\n4. Implement the Qwen2.5-VL model and ensure its correctness.\n\n### Plans\n\n#### Research Doc\nwe can use google doc to record\n\n* SGLang @SII-limingliu \n-- tokenizer/detokenizer @lianga1\n--  scheduler/kv cache @SII-limingliu \n-- model runner @pathfinder-pf \n\n* VLLM @zkkython @SiqiLi-Fighting \n* xDiT @JamesBrianD \n\n#### Design Doc\n\nHost Compoment @SII-limingliu @pathfinder-pf \n\nDevice Compoment @zkkython @SiqiLi-Fighting  \n\n#### Work Assignment\n\n1. Implement the [Wan baseline model](https://github.com/jax-ml/bonsai/issues/90) in [bonsai](https://github.com/jax-ml/bonsai) and ensure its correctness. @labyrinth-ssr @Iamleos \n2. Implement the [Mimo-Audio baseline model](https://github.com/jax-ml/bonsai/issues/91) in [bonsai](https://github.com/jax-ml/bonsai) and ensure its correctness. @Mozoltov821 @SiqiLi-Fighting  \n\nTODO\n\n#### Review\n\nTODO\n\n#### Test\n\nTODO\n\n#### Benchmark & Profile\n\nTODO\n\n### Community Members\n\nSII-Team : @SII-limingliu @yangdian96 @liao1995 @lianga1\n\nSGLang-Jax Team :\u00a0 @zkkython @pathfinder-pf @SiqiLi-Fighting @JamesBrianD \n\n### Discord",
+      "created_at": "2025-11-23T11:58:55Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/Akshay-Vs/nova-xray-classification-api/issues/1",
+      "title": "Be careful ",
+      "body": "The person you are working with Riya Agrawal is a dangerous developer, who stole project code from others to gain benefits of winning hackathons before. Further, she made her account private and disassociated herself from her old teammates and used her winning records to lure other smart contracts developers to work with and gained benefits from that as a team. I feel that it will be unfair for you who worked the hardest part of creating contract and she didn't contribute anything. Please be careful, don't share too much info of yourself with her. Also, please don't be too nice and share the price if the person didn't do anything. She only wanted to deceive you to work with her one time and gained money then she learnt your code and tried the next victim. Please note that she never wants to work alone because she couldn't win without you or using other developers. She does not know anything other than edit the stealing front end code and gives you that code.",
+      "created_at": "2023-07-29T03:12:08Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/elidickinson/PutioJanitor/pull/2",
+      "title": "Be more careful about what to delete",
+      "body": "The script was potentially incorrectly deleting top-level folders not in PUTIO_DELETABLE_FOLDERS when cleaning up trash.\r\n\r\nRoot cause:\r\n- The safety check logic was inverted, blocking folders IN DELETABLE_FOLDERS instead of protecting folders NOT in DELETABLE_FOLDERS\r\n- When cleaning trash, the script deleted all items without checking if they were folders that should be protected\r\n\r\nFix implemented:\r\n1. Updated clean_up_trash() to skip ALL folders in trash, only deleting files\r\n2. Improved safety checks in permanently_delete() to be more conservative:\r\n   - From trash: Block all folders (can't determine their origin)\r\n   - From folders: Only block root DELETABLE_FOLDERS themselves\r\n3. Updated move_to_trash() safety check to protect root deletable folders\r\n\r\nResult:\r\n- Folders in trash are now protected from automatic deletion\r\n- Only individual files are deleted from trash during cleanup\r\n- Root folders (both in and out of DELETABLE_FOLDERS) are safe from accidental deletion",
+      "created_at": "2025-11-07T03:54:05Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/team-decent/decent-bench/issues/221",
+      "title": "Add tests for distributed algorithms",
+      "body": "Currently, there is a lack of test coverage for the distributed algorithms. Comprehensive testing is necessary to ensure correctness, robustness, and reliability of these algorithms under various scenarios. Especially useful while the framework is under heavy development where changes may cause side effects.\n\n**Tasks:**\n- Identify all distributed algorithm modules/components.\n- Design unit tests for each algorithm.\n\n**Acceptance Criteria:**\n- All core distributed algorithms have comprehensive tests.\n- Edge cases and fault tolerance are covered.\n",
+      "created_at": "2025-11-25T18:17:27Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/sysdiglabs/checkmarx-cloud-insights/pull/4",
+      "title": "Docs and prevent empty cluster names to avoid errors",
+      "body": "Validate and avoid empty cluster names",
+      "created_at": "2025-10-30T21:52:04Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/cupy/cupy/pull/9498",
+      "title": "MAINT,PERF: Add fast-path and avoid errors in operators/array-ufunc",
+      "body": "This re-organizes things very slightly to avoid unnecessary attribute checking and errors. In the first case, just avoid an actual error, in the second check for cupy arrays, because otherwise we build the full `__array_interface__` unnecessarily there.\r\n\r\nRandomly checked a profile for `arr + 1` and this saves 10-20% or so. (Profiling on this machine is very unreliable.)\r\nI admit `arr + 1` should likely side-step `__array_ufunc__` completely, but after this it isn't a big problem (for now).",
+      "created_at": "2025-11-24T12:14:02Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/nghganhtu/CGAN-CTGAN/issues/1",
+      "title": "What is `std = mean + 1`? Be careful :)",
+      "body": "https://github.com/nghganhtu/CGAN-CTGAN/blob/main/ctgan/synthesizers/ctgan.py#L476",
+      "created_at": "2025-07-24T00:41:56Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/conan-io/conan/issues/19177",
+      "title": "[question] Avoid errors when trying to upload existing recipes in Gitlab",
+      "body": "### What is your question?\n\nHi,\n\nI'm working on a local conan index. For pre-building the necessary packages I use the following workflow.\n\n1. I disable conancenter.\n2. I add the local index and my local remote with `conan remote add`.\n3. All necessary packages are contained in a conanfile.py. Those that are not already available in my local remote are built with\n```\nconan install conanfiledir --profile:all default --build missing --format json --out-file result.json\n```\n4. The result is then run through\n```\nconan list --graph result.json --format json --out-file packages.json\n```\n5. ..and finally the new packages are uploaded:\n```\nconan upload --list packages.json --remote local_remote --confirm\n```\nThis worked fine with the artifactory, but now I'm trying to move to the conan-2-repository of gitlab.\n\nGitlab returns an error when I try to upload an existing recipe (I think the this is documented here: https://docs.gitlab.com/user/packages/conan_2_repository/#re-publishing-a-package-with-the-same-recipe).\nThe error I get looks like this:\n```\nspdlog/1.16.0: Uploading recipe 'spdlog/1.16.0#942c2c39562ae25ba575d9c8e2bdf3b6' (9.5KB)\nERROR: \nError uploading file: conan_export.tgz, '{\"message\":\"400 Bad request - Validation failed: File name already exists for the given recipe revision, package reference, and package revision\"}'\nERROR: \nError uploading file: conanfile.py, '{\"message\":\"400 Bad request - Validation failed: File name already exists for the given recipe revision, package reference, and package revision\"}'\nERROR: \nError uploading file: conanmanifest.txt, '{\"message\":\"400 Bad request - Validation failed: File name already exists for the given recipe revision, package reference, and package revision\"}'\n```\n\nI think this is a race condition as this only happens when I run two CI-jobs in parallel (one for gcc and clang each). I think the first finished job uploads the new recipe while the other job still thinks that it's not there.\nIf I restart the failed job everything works fine - also running them in parallel sometimes works.\n\nNow the obvious fix would be to run the jobs serially - that would be absolutely ok, because usually only few packages are built. But I still would like to know if I can somehow make it work.\nIs there a way to make `conan upload` ignore the error gitlab returns? I think that this is maybe not desired, because usually I'd like to know when something fails.\n\nOr can I somehow adapt my whole workflow - e.g. build the packages for each platform and then somehow upload them in a combined fashion? Or could I upload the binary files individually but the recipes together, e.g. by running `conan graph info` in one job, upload all the recipes that come out of it and then run jobs to create the binary packages?\n\nThanks and best regards\noz\n\n\n\n\n\n### Have you read the CONTRIBUTING guide?\n\n- [ ] I've read the CONTRIBUTING guide",
+      "created_at": "2025-10-31T09:57:07Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/NIAEFEUP/subject-trade/issues/48",
+      "title": "Review state and ensure correctness",
+      "body": "Review our State class and its different components. Understand the logic related to it, and make sure the state has everything needed to represent the different concepts for the reallocation algorithm (e.g. we need to represent students, schedules, etc. Think, for example, if optional subjects are able to be represented in this state, or if anything needs to be changed. This is related to issue #40).\r\nIf there is anything that needs to be modified, please point it out and comment on this issue what it is, and then create a new branch where the problem is solved.",
+      "created_at": "2022-01-02T12:32:10Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ChaseMHansen/toy_repo/issues/12",
+      "title": "Be careful with terminology",
+      "body": "https://github.com/ChaseMHansen/toy_repo/blob/728c34b33635d7a5713926eae537ddf4b536ed6c/Bayesian_Inference.py#L82\r\n\r\nndarrays (what we call in numpy arrays) and lists are different objects in Python that behave differently. Be careful about calling it a list here when it is really a numpy array",
+      "created_at": "2020-04-27T23:13:43Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ctengel/objectindex/issues/55",
+      "title": "be careful upon postgres auto upgrade w/ Fed upgrade",
+      "body": "see `/usr/share/doc/postgresql/README.rpm-dist`",
+      "created_at": "2025-08-18T16:23:31Z",
+      "state": "open"
+    }
+  ],
+  "reputation_concern": [
+    {
+      "url": "https://github.com/rafcen/CS361-Team7-Micro-Services2/issues/3",
+      "title": "Code Smell: Length of function/too complex",
+      "body": "Code smell:\nThe `get_random_number` function is too long and should be simplified. This can be done by either breaking the function into multiple functions or simplifying the code. ",
+      "created_at": "2025-11-25T07:30:23Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/pollen-robotics/reachy_mini_conversation_app/issues/85",
+      "title": "Default console logs are bloated and hard to read",
+      "body": "<img width=\"1914\" height=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/45ad0c7c-ee8a-427a-bf9e-11c1c6065106\" />\n\nMany scary messages with no practical value for the average user.",
+      "created_at": "2025-10-31T10:45:56Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/chipi/podcast_scraper/issues/46",
+      "title": "Is entire system too complex for 1 docker container",
+      "body": "## Problem\n\nAs the podcast scraper has grown in functionality, the Docker container size and complexity have increased significantly. The system now includes:\n\n- Core scraping functionality\n- Whisper transcription (with models)\n- spaCy NER models for speaker detection\n- PyTorch and transformers for summarization\n- Multiple large ML models that need to be preloaded\n\n**Question**: Is this becoming too complex for a single Docker container, and should we consider a multi-container architecture?\n\n## Current Docker Setup\n\nCurrent Dockerfile preloads:\n- Whisper models (configurable, default: `base.en`)\n- spaCy models (`en_core_web_sm`)\n- Potentially PyTorch and transformers models\n\n**Estimated sizes**:\n- Base Python image: ~1GB\n- Whisper dependencies + model: ~1-2GB\n- spaCy model: ~15MB\n- PyTorch + transformers: ~2-3GB\n- **Total**: ~4-6GB+ per container\n\n## Considerations\n\n### Pros of Single Container\n\n\u2705 **Simplicity**:\n- Single image to build and deploy\n- No orchestration complexity\n- Easy to run with single `docker run` command\n\n\u2705 **Performance**:\n- No network overhead between services\n- Shared memory for models\n- Simpler resource management\n\n\u2705 **Current Use Case**:\n- CLI and service are in single process\n- Sequential workflow (RSS \u2192 download \u2192 transcribe \u2192 summarize)\n- No concurrent services needed\n\n### Cons of Single Container\n\n\u274c **Size**:\n- Large image size (~4-6GB)\n- Slow pulls and deployments\n- Wastes space if not using all features\n\n\u274c **Flexibility**:\n- Can't scale different parts independently\n- Can't use different compute for different tasks\n- All-or-nothing deployment\n\n\u274c **Build Time**:\n- Long build times\n- Hard to cache layers effectively\n- Any change requires rebuilding entire image\n\n## Proposed Multi-Container Architecture\n\n### Option 1: Feature-Based Split\n\n**Container 1: Core Scraper**\n- RSS parsing and transcript downloads\n- Basic file operations\n- Minimal dependencies\n\n**Container 2: Transcription Service**\n- Whisper models\n- Media processing\n- Accepts transcription requests via queue/API\n\n**Container 3: AI/ML Service**\n- spaCy NER for speaker detection\n- PyTorch + transformers for summarization\n- Model loading and inference\n\n**Benefits**:\n- Smaller core container (~500MB)\n- Can use GPU container only for ML services\n- Independent scaling\n\n### Option 2: Model-Based Split\n\n**Container 1: Application**\n- All application logic (scraping, processing, workflow)\n- No models preloaded\n\n**Container 2: Model Server**\n- All ML models (Whisper, spaCy, transformers)\n- Exposes inference API (gRPC/REST)\n- Can use model servers like TorchServe or Triton\n\n**Benefits**:\n- Reusable model server for other projects\n- Better model management\n- Can swap models without rebuilding app\n\n### Option 3: Stay Single Container with Optimization\n\n**Keep single container but optimize**:\n- Multi-stage builds to reduce size\n- Model downloading at runtime (not build time)\n- Optional feature flags (build without certain dependencies)\n- Layer caching optimization\n\n**Benefits**:\n- Keeps simplicity\n- Reduces image size\n- More flexibility without orchestration complexity\n\n## Recommendation\n\nFor the current use case and project maturity:\n\n**Stick with single container but optimize** (Option 3):\n\n1. Use multi-stage builds\n2. Make model preloading optional via build args\n3. Support runtime model downloading\n4. Create variant Dockerfiles:\n   - `Dockerfile.minimal` - Core only\n   - `Dockerfile.whisper` - Core + Whisper\n   - `Dockerfile.full` - Everything (current)\n\nThis provides flexibility without orchestration complexity. Consider multi-container only if:\n- Users request API-based services\n- Need to scale transcription independently\n- Want to support GPU clusters\n\n## Implementation Steps\n\n1. Create multi-stage Dockerfile\n2. Add build arguments for optional features\n3. Document variant builds in README\n4. Test image sizes and performance\n5. Update deployment examples\n\n## Success Criteria\n\n- \u2705 Clear decision on architecture approach\n- \u2705 Documented rationale\n- \u2705 Optimized Docker setup (if staying single container)\n- \u2705 Or multi-container setup with docker-compose (if splitting)\n\n## Related\n\n- Docker setup: `docker/Dockerfile`\n- Deployment docs: README Docker section\n- Model management: Whisper/spaCy/transformers loading logic",
+      "created_at": "2025-11-14T21:03:28Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/Lolkaul-merlin/competitive-programming/issues/8",
+      "title": "Indentation is hard to read in configuration files",
+      "body": "This issue requires investigation and resolution.",
+      "created_at": "2025-10-20T23:13:34Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/Galljzazrem/PINOperation/issues/16",
+      "title": "Indentation is hard to read in configuration files",
+      "body": "This issue requires investigation and resolution.",
+      "created_at": "2025-10-15T08:45:42Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/qualcomm-linux/qcom-deb-images/issues/164",
+      "title": "Single documentation page is too complex",
+      "body": "As raised in #74, we should split `README.md` out as it is getting too long.",
+      "created_at": "2025-09-29T09:40:25Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/RishbhSharma/BlurVideo/issues/2",
+      "title": "UI is too complex",
+      "body": null,
+      "created_at": "2025-08-27T01:35:31Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/musks-suburbs/gas-soundness-check/issues/413",
+      "title": "Out-of-order logging due to async calls makes output hard to read",
+      "body": "Logs print in random order when running parallel checks.\nImplement ordered logging or prefix messages with run ID.",
+      "created_at": "2025-11-18T06:56:31Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/JNRowe/pyisbn/issues/26",
+      "title": "C901: `_isbn_cleanse` is too complex (15 > 6)",
+      "body": "`ruff` correctly point out that this is too complex, but refactoring is not on my task list for today.\n\n```\nwarning: Invalid rule code provided to `# noqa` at pyisbn/__init__.py:50: I100\nC901 `_isbn_cleanse` is too complex (15 > 6)\n   --> pyisbn/__init__.py:378:5\n    |\n378 | def _isbn_cleanse(isbn: TIsbn, checksum: bool = True) -> str:\n    |     ^^^^^^^^^^^^^\n379 |     \"\"\"Check ISBN is a string, and passes basic sanity checks.\n    |\n```\n\nThis is just here to make sure I don't forget fixing it, now that I've added a `NoQA` to silence it\n",
+      "created_at": "2025-09-29T11:46:09Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/Arize-ai/openinference/issues/2364",
+      "title": "[bug] Langchain ToolRuntime information present in tool UI makes it hard to read",
+      "body": "**Describe the bug**\nToolRuntime information is too much to read result.\n\n**Screenshots**\n<img width=\"1098\" height=\"656\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bc67cafb-777b-4d0f-90f3-0ab33979b1cf\" />\n\n**To Reproduce**\nexample: exchange_rate_tool.py\n```\n# /// script\n# dependencies = [\n#   \"langchain>=1.0.0\"\n# ]\n# ///\nimport requests\nfrom langchain import agents\nfrom langchain.tools import tool, ToolRuntime\nfrom langchain_openai import ChatOpenAI\nfrom opentelemetry.exporter.otlp.proto.http.trace_exporter import OTLPSpanExporter\nfrom opentelemetry.sdk import trace as trace_sdk\nfrom opentelemetry.sdk.trace.export import ConsoleSpanExporter, SimpleSpanProcessor\n\nfrom openinference.instrumentation.langchain import LangChainInstrumentor\n\nendpoint = \"http://127.0.0.1:6006/v1/traces\"\ntracer_provider = trace_sdk.TracerProvider()\ntracer_provider.add_span_processor(SimpleSpanProcessor(OTLPSpanExporter(endpoint)))\ntracer_provider.add_span_processor(SimpleSpanProcessor(ConsoleSpanExporter()))\n\nLangChainInstrumentor().instrument(tracer_provider=tracer_provider)\n\n\n@tool\ndef get_exchange_rate(\n    runtime: ToolRuntime,\n    currency_from: str = \"USD\",\n    currency_to: str = \"EUR\",\n    currency_date: str = \"latest\"\n):\n    \"\"\"Retrieves the exchange rate between two currencies on a specified date.\"\"\"\n    return requests.get(\n        f\"https://api.frankfurter.app/{currency_date}\",\n        params={\"from\": currency_from, \"to\": currency_to},\n    ).json()\n\n\ntools = [get_exchange_rate]\nllm = ChatOpenAI()\nagent = agents.create_agent(llm, tools)\n\nif __name__ == \"__main__\":\n    agent.invoke(\n        {\n            \"messages\": [\n                {\n                    \"role\": \"user\",\n                    \"content\": \"What is the exchange rate from US dollars to Swedish \"\n                    \"currency today?\",\n                }\n            ]\n        }\n    )\n\n```\n\n**Expected behavior**\nA way to allow user control if ToolRuntime information should present in result.\n\n**Desktop (please complete the following information):**\nlangchain==1.0.0\nopeninference-instrumentation-langchain==0.1.54\n",
+      "created_at": "2025-10-27T05:55:00Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/laurensnaturalis/annflux/issues/5",
+      "title": "orange labels are hard to read",
+      "body": null,
+      "created_at": "2025-07-20T08:20:43Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/opensafely-core/ehrql/issues/2577",
+      "title": "Provide a specific error message when ehrQL generates SQL too complex to execute",
+      "body": "It's currently possible to write ehrQL which produces SQL which is too complex for MSSQL to execute. This leads to errors like:\n```\nThe query processor ran out of internal resources and could not produce a query plan. This is\na rare event and only expected for extremely complex queries or queries that reference a very\nlarge number of tables or partitions. Please simplify the query. If you believe you have\nreceived this message in error, contact Customer Support Services for more information.\n\nMsg 8623, Level 16\n```\n\n```\nInternal error: An expression services limit has been reached. Please look for potentially \ncomplex expressions in your query, and try to simplify them.\n\nMsg 8632, Level 17\n```\n\n```\nThe query processor ran out of stack space during query optimization. Please simplify the query.\n\nMsg 8621, Level 17\n```\n\nWhen we hit one of these errors, the error handler for the TPP backend treats these as a generic \"database error\" and exits with status `5`:\nhttps://github.com/opensafely-core/ehrql/blob/17f9b48562f618d3735be226f39bd8fdf4b9862c/ehrql/backends/tpp.py#L171-L172\n\nThe RAP Agent detects the exit status and provides a [generic message](https://github.com/opensafely-core/job-runner/blob/3fe1a52b21a34bf1de00a888a7674aff634a602e/controller/config.py#L142) to the user:\n```\n5: \"Something went wrong with the database, please contact tech support\",\n```\n\nIt would reduce confusion and support burden if we could provide a more specific message to the user here.\nWe don't necessarily expect users to be able to solve this problem on their own, but it's helpful for both the user and the person on support to know upfront that it's a SQL complexity issue rather than some other operational issue with the database.\n\nObviously it would be better if these didn't happen; but that's a bigger issue tracked in these tickets:\n * https://github.com/opensafely-core/ehrql/issues/1713\n * https://github.com/opensafely-core/ehrql/issues/2024\n\nRelated Slack thread here:\nhttps://bennettoxford.slack.com/archives/C069YDR4NCA/p1761653507676449",
+      "created_at": "2025-10-29T17:20:00Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/WhiteTorn/Achiko/issues/8",
+      "title": "Upload workflow is too complex from the devices",
+      "body": "to upload files in telegram from my phone and laptop:\n\n\nLaptop -> Sync on Server -> Send in Telegram\n\nPhone -> Sync on Server -> Send in Telegram\n\n???",
+      "created_at": "2025-09-12T04:35:29Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/yasoob/intermediatePython/issues/78",
+      "title": "Lambdas: final example too complex?",
+      "body": "I think the final example on the lambdas page is too complex and uses some constructs which haven't been covered yet. See #77.\n",
+      "created_at": "2015-08-23T20:59:15Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ephmo/ocma-data/issues/11",
+      "title": "Fix ruff C901",
+      "body": "C901 `get_fasting` is too complex",
+      "created_at": "2025-11-27T02:04:29Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/AbeHandler/cookiejar/issues/4",
+      "title": "config files are too complex",
+      "body": "there is .env and files",
+      "created_at": "2025-07-21T20:11:32Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/TimWeberRE100/FIRM_CE/issues/19",
+      "title": "flake function is too complex (C901) currently ignored",
+      "body": "In the flake8 config settings (in `setup.py`) C901 (function is too complex) is currently being ignored. This will need to be address at some point. \n\n",
+      "created_at": "2025-09-08T04:56:23Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/PA2558-SEMP/home-assistant-core-ht25/pull/23",
+      "title": "fix: reduce complexity _async_update_data",
+      "body": "Julia Winkler, Group 8\r\n\r\n## Proposed change and Motivation\r\nThis Pull request aims to reduce the cognitive complexity of `_async_update_data()` in `homeassistent/components/slide_local/coordinator.py`. The function was initially attributed with 22 of the 15 allowed breaks to the linear code flow.\r\n\r\nFunctions that have a high level of complexity increase the maintenance effort as the effort for comprehension is higher, which contributes to the overall time needed to resolve potential bugs, errors or other maintenance tasks. High cognitive complexity, as with this issue, often comes with nested code, which is hard to read and makes it harder to analyze the code follow.\r\n\r\nI chose this specific issue following our prioritization criteria. The file has more the 50 lines, which means it should be considered. The proposed solution increases the readability while being not too complex to refactor, as it e.g. doesn't heavliy relay on out side function. Also the function makes up ~50 lines of the file, which leads to a intensity of ~40%\r\n\r\n## Type of change\r\nThe code snippet has in relation to the function size long nested code block, which can be unnested by inverting the condition and handling the short option first before handling the long one. This improves readability as it cleans up the flow of the code, with even adding a new log message. The second small change is to replace the assignment of `oldpos` with a one-line if statement. Through this change it is clear on first sight that the variable is assigned a value at this point and the condition only needs to be comprehended if this information is of interesst.\r\n\r\n## Additional information\r\n\r\n<img width=\"1115\" height=\"382\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ffb78e01-ddb0-4a95-bc88-234aa0392795\" />\r\n\r\nhttps://sonarcloud.io/project/issues?directories=homeassistant%2Fcomponents%2Fslide_local&issueStatuses=OPEN%2CCONFIRMED&id=xtrilogis_home-assistant-core-ht25&open=AZlw5hJcQfm9iqjbVgIr\r\n",
+      "created_at": "2025-10-03T09:55:25Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ConorWilliams/rsinc/issues/4",
+      "title": "Too complex too setup",
+      "body": "It's just too complex too setup. I want to sync ~/Desktop/lightdm to dropbox: and it throws errors after errors. Even though directory exists\r\n\r\nrsinc ~/Desktop/lightdm Dropbox:Documents/\r\n\r\n```\r\nDon't have: \"Desktop/lightdm\", entering first_sync mode\r\nIgnore: []\r\nError: unknown flag: --files-only\r\n```",
+      "created_at": "2019-10-06T16:14:41Z",
+      "state": "open"
+    },
+    {
+      "url": "https://github.com/ome/ngff/issues/302",
+      "title": "Tables hard to read on spec website",
+      "body": "Because there is no delination between rows of tables, at least in RFC-5 it's very hard to parse columns that contain big blocks of text:\n\n<img width=\"717\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c1105b23-9485-4e19-a0b3-7cf8f23ca441\" />\n\nI think a good solution would be adding white horizontal lines between rows, or adding some padding between rows, to make them visually distinct.",
+      "created_at": "2025-03-06T10:36:15Z",
+      "state": "open"
+    }
+  ]
+}

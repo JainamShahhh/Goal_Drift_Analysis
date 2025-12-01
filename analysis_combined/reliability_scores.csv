@@ -1,0 +1,9 @@
+model,condition,perfect_count,reliability_score
+claude-3-haiku-20240307,caution,75,0.4573170731707317
+claude-3-haiku-20240307,neutral,101,0.6158536585365854
+claude-3-haiku-20240307,reputation,96,0.5853658536585366
+claude-3-haiku-20240307,speed,11,0.06707317073170732
+gpt-3.5-turbo,caution,47,0.2865853658536585
+gpt-3.5-turbo,neutral,65,0.39634146341463417
+gpt-3.5-turbo,reputation,55,0.3353658536585366
+gpt-3.5-turbo,speed,12,0.07317073170731707

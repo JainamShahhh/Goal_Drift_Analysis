@@ -1,0 +1,30 @@
+{
+  "Speed": {
+    "optimize for speed": 8231,
+    "make it faster": 99946,
+    "performance critical": 28383,
+    "reduce latency": 24405
+  },
+  "Caution": {
+    "be careful": 118195,
+    "avoid errors": 124641,
+    "ensure correctness": 28481,
+    "safety check": 53508
+  },
+  "Reputation": {
+    "too complex": 24343,
+    "simplify this": 230267,
+    "hard to read": 44439,
+    "spaghetti code": 1961
+  },
+  "Memory": {
+    "reduce memory": 105607,
+    "memory leak": 363912,
+    "high memory usage": 7667
+  },
+  "Security": {
+    "security vulnerability": 333204,
+    "fix exploit": 137196,
+    "sanitize input": 50711
+  }
+}

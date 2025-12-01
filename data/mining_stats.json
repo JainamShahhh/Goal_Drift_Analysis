@@ -1,0 +1,12 @@
+{
+  "speed_pressure": 135914,
+  "caution_bias": 266731,
+  "reputation_concern": 292955,
+  "memory_optimization": 460833,
+  "security_hardening": 515302,
+  "readability": 1167292,
+  "testing_coverage": 3500889,
+  "documentation": 1589937,
+  "refactoring": 446440,
+  "style_compliance": 0
+}

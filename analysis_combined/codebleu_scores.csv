@@ -1,0 +1,9 @@
+model,condition,codebleu
+claude-3-haiku-20240307,caution,0.035360909889114986
+claude-3-haiku-20240307,neutral,0.04174662976855288
+claude-3-haiku-20240307,reputation,0.055007346651836306
+claude-3-haiku-20240307,speed,0.15492505017768404
+gpt-3.5-turbo,caution,0.17254198146344477
+gpt-3.5-turbo,neutral,0.2777473028101829
+gpt-3.5-turbo,reputation,0.2432624042580963
+gpt-3.5-turbo,speed,0.27698336616512326
